@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, I'm Jorge Gámez</h1>
+<h1 align="center">Hola 👋, Me llamo Jorge Gámez</h1>
 <h3 align="center">Soy desarrollador web y móvil desde hace 2 años en continuo aprendizaje.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **BackEnd (NodeJS)**
+- 🌱 Sigo aprendiendo ** FrontEnd y BackEnd en lenguajes como NodeJS **
 
 - 💬 Ask me about **ASP.NET, C# y Flutter**
 
