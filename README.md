@@ -1,11 +1,11 @@
 <h1 align="center">Hi friend, WELCOME 👋, I'm Jorge Gámez</h1>
 <h3 align="center"> I'm developer with 2 years of experience with constant learning</h3>
 
-- 🌱 I’m currently learning ** Flutter, NodeJS and Cloud Computing **
+- 🌱 I’m currently learning **Flutter, NodeJS and Cloud Computing**
 
 - 💬 Ask me about **ASP.NET, C# y Flutter**
 
-- ⚡ Fun fact I love to play videogames and to search about development and technology.
+- ⚡ Fun fact *I love to play videogames and to search about development and technology.*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
