@@ -3,10 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, NodeJS and Cloud Computing**
 
-- 💬 Ask me about:
-    -**ASP.NET**
-    -**C#**
-    -**Flutter**
+- 💬 Ask me about: **ASP.NET, C# and Flutter**
 
 - ⚡ Fun fact *I love to play videogames and to search about development and technology.*
 
