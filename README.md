@@ -1,5 +1,5 @@
 <h1 align="center">Hi friend, WELCOME 👋, I'm Jorge Gámez</h1>
-<h3 align="center"> I'm developer with 2 years of experience with constant learning</h3>
+<h3 align="center"> I'm developer .Net since 2021 with constant learning</h3>
 
 - 🌱 I’m currently learning **NodeJS, ReacJS, Python & Cloud Computing**
 
