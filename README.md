@@ -21,17 +21,16 @@
 
 <br>
 
-- :school: Soy estudainte de `Maestría en Habilidades Directivas` en [Universidad Mexicana](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :technologist: Me encanta toda usar la tecnología para resolver cualquier `Problema`.
+- :school: Soy estudiante de `Maestría en Habilidades Directivas` en [Universidad Mexicana].
+- :technologist: Me encanta poder usar la tecnología para resolver cualquier `Problema` y tener la oportunidad de `Automatizar Procesos`.
 - :computer: Soy desarrollador .Net.
-- :student: Actualmente estoy aprendiendo sobre `Inteligencia Artificial` y `Desarrollo de Apps`.
+- :student: Actualmente estoy aprendiendo sobre `Inteligencia Artificial` y `Desarrollo de Apps` en [Platzi].
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Estoy abierto a `oportunidades laborales`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: Puedes buscar en: [MY WEBSITE](https://mx.linkedin.com/in/jorge-gamez-bianchi).
+- :thinking: Estoy abierto a `oportunidades laborales`, checa mi LinkedIn [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://mx.linkedin.com/in/jorge-gamez-bianchi)).
+<!--- - :boom: Puedes buscarme en: [MY WEBSITE](https://mx.linkedin.com/in/jorge-gamez-bianchi).  -->
 <br>
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis habilidades de programación competitivos
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
