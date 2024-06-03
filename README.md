@@ -24,9 +24,9 @@
 - :school: Soy estudiante de `Maestría en Habilidades Directivas` en [Universidad Mexicana].
 - :technologist: Me encanta poder usar la tecnología para resolver cualquier `Problema` y tener la oportunidad de `Automatizar Procesos`.
 - :computer: Soy desarrollador .Net.
-- :student: Actualmente estoy aprendiendo sobre `Inteligencia Artificial` y `Desarrollo de Apps` en [Platzi].
+- :student: Actualmente estoy aprendiendo sobre `Inteligencia Artificial` y `Desarrollo de Apps`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Estoy abierto a `oportunidades laborales`, checa mi LinkedIn [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://mx.linkedin.com/in/jorge-gamez-bianchi)).
+- :thinking: Estoy abierto a `oportunidades laborales`.
 <!--- - :boom: Puedes buscarme en: [MY WEBSITE](https://mx.linkedin.com/in/jorge-gamez-bianchi).  -->
 <br>
 
