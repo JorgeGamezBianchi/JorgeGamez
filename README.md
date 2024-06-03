@@ -58,7 +58,7 @@
 </p>
 -->
 
-## 🛠️ Mis habilidades
+<!---## 🛠️ Mis habilidades
 
 <p align="left"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -334,7 +334,7 @@
 </div>
 </details>
 
-</br></br>
+</br></br>-->
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
